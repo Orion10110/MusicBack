@@ -195,8 +195,8 @@ acorn-walk@^7.0.0:
   resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-7.0.0.tgz#c8ba6f0f1aac4b0a9e32d1f0af12be769528f36b"
 
 acorn@^7.0.0, acorn@^7.1.0:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-7.1.0.tgz#949d36f2c292535da602283586c2477c57eb2d6c"
+  version "7.2.0"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-7.2.0.tgz#17ea7e40d7c8640ff54a694c889c26f31704effe"
 
 adonis-swagger@^1.2.9:
   version "1.2.9"
@@ -3669,10 +3669,6 @@ write@1.0.3:
 xtend@^4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.2.tgz#bb72779f5fa465186b1f438f674fa347fdb5db54"
-
-ya-disk@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/ya-disk/-/ya-disk-2.1.0.tgz#84c10e231f6ced434b4b1ddc925ff0f9c9e82686"
 
 yallist@^2.1.2:
   version "2.1.2"
