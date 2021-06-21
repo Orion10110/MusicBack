@@ -3074,8 +3074,8 @@ serve-static@^1.13.2:
     send "0.17.1"
 
 set-getter@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/set-getter/-/set-getter-0.1.0.tgz#d769c182c9d5a51f409145f2fba82e5e86e80376"
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/set-getter/-/set-getter-0.1.1.tgz#a3110e1b461d31a9cfc8c5c9ee2e9737ad447102"
   dependencies:
     to-object-path "^0.3.0"
 
@@ -3669,10 +3669,6 @@ write@1.0.3:
 xtend@^4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.2.tgz#bb72779f5fa465186b1f438f674fa347fdb5db54"
-
-ya-disk@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/ya-disk/-/ya-disk-2.1.0.tgz#84c10e231f6ced434b4b1ddc925ff0f9c9e82686"
 
 yallist@^2.1.2:
   version "2.1.2"
